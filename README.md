@@ -1,4 +1,4 @@
-# myproject
+# my-flights-api
 
 This project represents a use case solution for the fictional Mule United Airport (MUA). United, Delta, and American Airlines have provided outgoing and incoming flight data to MUA in the form a RESTFUL web service, SOAP web service, and a MySQL database respectively. MUA also stores customer account information in both a MySQL database and Salesforce. 
 
